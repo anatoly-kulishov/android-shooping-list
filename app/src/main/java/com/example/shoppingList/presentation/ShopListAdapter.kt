@@ -1,7 +1,5 @@
 package com.example.shoppingList.presentation
 
-import com.example.shoopinglist.presentation.ShopItemDiffCallback
-import com.example.shoopinglist.presentation.ShopItemViewHolder
 import androidx.recyclerview.widget.ListAdapter
 import com.example.shoppingList.domain.ShopItem
 import android.view.LayoutInflater
